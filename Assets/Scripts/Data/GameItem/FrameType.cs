@@ -2,10 +2,10 @@
 {
 	public enum FrameType
 	{
-		Blue,
-		Red,
-		Green,
-		Yellow
+		Blue = 0,
+		Red = 1,
+		Green = 2,
+		Yellow = 3
 	}
 }
 

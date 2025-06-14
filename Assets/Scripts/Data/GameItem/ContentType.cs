@@ -4,9 +4,9 @@
 	{
 		Diamond = 0,
 		Skull = 1,
-		BottleGreen,
-		BottleBlue,
-		BottleYellow
+		BottleGreen = 2,
+		BottleBlue = 3,
+		BottleYellow = 4
 	}
 }
 
